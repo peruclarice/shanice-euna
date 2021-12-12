@@ -3,8 +3,7 @@
 
 <head>
     @include('partials.head')
-	
-	<title>Orabel</title>
+	<title>Shanice Euna's Portfolio</title>
 </head>
 
 <body>
